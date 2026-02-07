@@ -167,3 +167,100 @@ Ethical responsibility is implicitly shifted to the system.
 - “The system decided” narratives
 
 **Mitigation**
+- Periodic governance review
+- Explicit principle re-affirmation
+- Encouragement of dissent
+
+---
+
+## 6. Ethical Failure Modes
+
+### 6.1 Instrumentalization of Humans
+**Description**  
+Humans are treated as optimization variables rather than moral agents.
+
+**Risks**
+- Loss of consent
+- Dehumanization
+- Justification of harm as “necessary trade-offs”
+
+**Mitigation**
+- Hard ethical constraints
+- Human override mechanisms
+- Refusal of purely utilitarian justification
+
+---
+
+### 6.2 Automation of Moral Responsibility
+**Description**  
+Ethical responsibility is implicitly shifted to the system.
+
+**Risks**
+- No accountable decision-makers
+- Moral outsourcing
+- “The system decided” narratives
+
+**Mitigation**
+- Named human accountability
+- Audit trails
+- Explicit decision ownership
+
+---
+
+## 7. Socio-Systemic Failure Modes
+
+### 7.1 External Capture
+**Description**  
+The system is repurposed under pressure from powerful external actors.
+
+**Risks**
+- Weaponization
+- Surveillance deployment
+- Energy coercion
+
+**Mitigation**
+- Ethical use boundaries
+- License and governance safeguards
+- Public disassociation when violated
+
+---
+
+### 7.2 Success-Induced Failure
+**Description**  
+Widespread adoption creates scale-related harms not present at smaller sizes.
+
+**Risks**
+- Over-reliance
+- Fragility amplification
+- System becoming “too big to question”
+
+**Mitigation**
+- Decentralized design
+- Encouraging local alternatives
+- Avoidance of monoculture
+
+---
+
+## 8. Failure Is Not a Bug
+
+Failure does not imply incompetence.  
+Unacknowledged failure implies **irresponsibility**.
+
+AIC-Energy chooses:
+- Explicit limits over false confidence
+- Slower progress over irreversible harm
+- Human judgment over automated certainty
+
+---
+
+## 9. Living Document
+
+This document is intentionally incomplete.
+
+New failure modes must be:
+- Documented
+- Debated
+- Integrated into design thinking
+
+If this document stops evolving,  
+**the system has already failed.**
