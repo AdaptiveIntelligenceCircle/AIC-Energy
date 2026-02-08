@@ -95,4 +95,81 @@ AIC-Energy/
 ├── ETHICAL_USE_POLICY.md
 ├── FAILURE_MODES.md
 └── README.md
+```
 
+## Governance & Ethics First
+
+AIC-Energy treats governance as a technical concern, not a legal afterthought.
+
++ Key documents:
+
+**GOVERNANCE.md** – how decisions are made
+
+**ETHICAL_USE_POLICY.md** – where the system must not be used
+
+**FAILURE_MODES.md** – how and where the system can break
+
+**SECURITY.md** – bounded trust and threat assumptions
+
+If these documents are ignored, the system has already failed.
+
+## Contribution Philosophy
+
+Contributions are welcome — with conditions.
+
+We value:
+
+- Clarity over cleverness
+
+- Explainability over performance
+
+- Ethical reasoning over optimization hype
+
+- Long-term impact over short-term wins
+
+Every contribution is evaluated not only for correctness, but for systemic and ethical impact.
+
+See **CONTRIBUTING.md** for details.
+
+## Security Posture
+
+AIC-Energy assumes:
+
+- Partial compromise is inevitable
+
+- Misuse pressure will increase with success
+
+- Adaptive systems can drift silently
+
+Security is therefore treated as:
+
+- Containment, auditability, and reversibility
+not absolute prevention.
+
+See **SECURITY.md**.
+
+## Status
+
+AIC-Energy is experimental.
+
+Expect:
+
+- Incomplete modules
+
+- Design revisions
+
+- Explicit uncertainty
+
+- Slow, deliberate progress
+
+This is intentional.
+
+## Final Note
+
+AIC-Energy does not aim to dominate energy systems.
+
+It aims to prove that intelligence with power can remain accountable.
+
+If the system ever becomes efficient at the cost of human agency, it should be slowed down — or shut down.
+
+That choice is part of the design.
