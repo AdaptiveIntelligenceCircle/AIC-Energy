@@ -1,6 +1,6 @@
 #pragma once
 #include "scenario.h"
-
+#include <vector> 
 using namespace std;
 
 namespace aic
@@ -10,5 +10,6 @@ namespace aic
         public:
         void loadScenario(const Scenario &s);
         void run();
+
     };
 }
